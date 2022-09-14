@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAERSK.HUUB.API", "MAERSK.HUUB.API\MAERSK.HUUB.API.csproj", "{E2F57D72-9107-4D1A-AC4B-DD961487878F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAERSK.HUUB.DOMAIN", "MAERSK.HUUB.DOMAIN\MAERSK.HUUB.DOMAIN.csproj", "{1322E1D3-64A5-4B25-A231-9E6572ABD6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2F57D72-9107-4D1A-AC4B-DD961487878F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F57D72-9107-4D1A-AC4B-DD961487878F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F57D72-9107-4D1A-AC4B-DD961487878F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F57D72-9107-4D1A-AC4B-DD961487878F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1322E1D3-64A5-4B25-A231-9E6572ABD6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1322E1D3-64A5-4B25-A231-9E6572ABD6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1322E1D3-64A5-4B25-A231-9E6572ABD6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1322E1D3-64A5-4B25-A231-9E6572ABD6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8778D59A-3DC9-47E1-8F20-B07BAC0F3959}
+	EndGlobalSection
+EndGlobal
